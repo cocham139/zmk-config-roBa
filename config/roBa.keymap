@@ -88,7 +88,7 @@
         NUM {
             bindings = <
 &kp MINUS       &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp MINUS  &kp PLUS                                    &kp N7        &kp N8        &kp N9        &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
-&kp SLASH       &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp FSLH   &kp ASTERISK  &kp SEMI       &kp SEMICOLON  &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp DOLLAR            &kp PERCENT
+&kp SLASH       &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp FSLH   &kp ASTERISK  &kp COLON      &kp SEMICOLON  &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp DOLLAR            &kp PERCENT
 &kp LEFT_SHIFT  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp BSLH   &kp PERIOD    &kp EQUAL      &kp N0         &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp RIGHT_BRACE       &kp BACKSLASH
 &trans          &trans           &trans           &trans     &trans        &trans         &trans         &trans                                                          &kp PIPE
             >;
